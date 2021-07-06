@@ -1,4 +1,4 @@
-👋 Hi, I’m Kate!
-👀 I’m interested in coding, really. Just all coding. I'm passionate about coding and it's never boring for me, I love creating it's always fun :)
-🌱 I’m currently learning JavaScript, CSS, HTML, C#
+👋 Hi, I’m Kate! <br>
+👀 I’m interested in learning! I love learning, right now I'm learning coding and Development.  <br>
+🌱 I’m currently learning JavaScript, CSS, HTML, C# <br>
 📫 How to reach me, send me an email! professionalkateg@gmail.com ! 
