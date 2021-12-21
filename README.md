@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [React Hotel Booking Website](https://github.com/Professional-Kate/cyf-hotel-react) and [JavaScript TV Show Website](https://github.com/Professional-Kate/tv-show-dom-project)
 
-- 🌱 I’m currently learning **CSS**, *it's easily my worst area!* **And React**
+- 🌱 I’m currently learning **CSS**, *(it's easily my worst area!)* **React**, **Node** and **C#**
 
 - 💬 Ask me about **JavaScript or React!**
 
