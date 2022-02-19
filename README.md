@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kate!</h1>
 <h3 align="center">A passionate full-stack developer from the UK!</h3>
 
-- 🔭 I’m currently working on [React Hotel Booking Website](https://github.com/Professional-Kate/cyf-hotel-react) and [JavaScript TV Show Website](https://github.com/Professional-Kate/tv-show-dom-project)
+- 🔭 I’m currently working on (will update this soon)
 
 - 🌱 I’m currently learning **React**, **C#** and **Python**
 
