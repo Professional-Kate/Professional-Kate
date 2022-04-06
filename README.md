@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal site, professionalkate.dev !**
 
-- 🌱 I’m currently learning **React**, **C#** and **Python**
+- 🌱 I’m currently learning **C#** and **C**
 
 - 💬 Ask me about **JavaScript!**
 
