@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal site, professionalkate.dev !**
 
-- 🌱 I’m currently learning **C#** and **C**
+- 🌱 I’m currently learning **C** to fully understand how everything works behind the scenes. That's important for me because I want to learn Programming, not another language. So far it's really awesome! Pointers are kinda complicated but I'm understanding it. It's really fun so far :D 
 
 - 💬 Ask me about **JavaScript!**
 
