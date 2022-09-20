@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kate!</h1>
-<h3 align="center">A passionate full-stack developer from the UK!</h3>
+<h1 align="center">Hi 👋, I'm Katie!</h1>
+<h3 align="center">A passionate software developer from the UK!</h3>
 
-- 🔭 I’m currently working on **my personal site, professionalkate.dev !**
-
-- 🌱 I’m currently learning **C** to fully understand how everything works behind the scenes. That's important for me because I want to learn Programming, not another language. So far it's really awesome! Pointers are kinda complicated but I'm understanding it. It's really fun so far :D 
-
-- 💬 Ask me about **JavaScript!**
+- 🌱 I'm currently working on a game in the Unity Engine using C#! It's my first real C# project and the first time I've ever used Unity. I'm also learning common OOP architecture and the SOLID principles. 
 
 - 📫 Any questions or just want to chat? Then send an email to **hello@professionalkate.dev**
 
