@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Katie!</h1>
 <h3 align="center">A passionate software developer from the UK!</h3>
 
-- 🌱 I'm currently working on a game in the Unity Engine using C#! It's my first real C# project and the first time I've ever used Unity. I'm also learning common OOP architecture and the SOLID principles. 
+- 🌱 I'm currently working on learning Java, SprintBoot and other Java things for my job! In my free time I am learning C while trying to create all the basic data structures => Currently: Linked List.
 
 - 📫 Any questions or just want to chat? Then send an email to **hello@professionalkate.dev**
 
