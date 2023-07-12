@@ -5,10 +5,10 @@
 <h2>Mandatory GitHub.com languages / frameworks section</h2>
 
 <h3>Languages I've used</h3>
-<p>C# (my beloved), Java, C++, Angular, Spring(+boot)</p>
+<p>C# (my beloved), Java, C++, Angular, Spring(+boot), SQL</p>
 
 <h3>Languages I've greatly regretted using</h3>
-<p>C (also my beloved), JavaScript, Python, React</p>
+<p>C (also my beloved), JavaScript, Python, React, MongoDB</p>
 
 <h3>I don't know what to call this header other than just "tools"</h3>
-<p>Git, Unity, Unreal</p>
+<p>Git, Unity, Unreal, Gradle, Maven</p>
