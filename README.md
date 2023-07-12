@@ -14,4 +14,4 @@
 <p>Git, Unity, Unreal, Gradle, Maven</p>
 
 <h3>I don't know what to call this header other than "buzzwords"</h3>
-TDD, BDD (Cucumber/Gherkin)
+<p>TDD, BDD (Cucumber/Gherkin)</p>
